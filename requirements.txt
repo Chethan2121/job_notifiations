@@ -1,7 +1,5 @@
 requests
-newspaper3k
-lxml[html_clean]
+python-dotenv
 langchain
 langchain-community
-openai
-tiktoken
+huggingface_hub
