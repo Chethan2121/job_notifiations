@@ -1,7 +1,7 @@
 requests
-python-dotenv
 newspaper3k
+lxml[html_clean]
 langchain
+langchain-community
 openai
 tiktoken
-lxml[html_clean]
