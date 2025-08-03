@@ -4,3 +4,4 @@ newspaper3k
 langchain
 openai
 tiktoken
+lxml[html_clean]
